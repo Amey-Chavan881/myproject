@@ -1,15 +1,10 @@
-## Project Overview
 
-This project is a front-end clone of the Sidcup Family Golf website, designed using HTML, CSS, JavaScript, and GSAP for animations. It replicates the design and core features of the original site, including sections for Toptracer, Adventure Golf, Golf Lessons, and interactive elements. The site emphasizes design fidelity and smooth animations.
+# Golf Website Clone
 
-Explore the clone to see how these technologies bring the site to life!
+## Description
 
-### Technologies Used
+The **Golf Website Clone** is a front-end project that replicates the Sidcup Family Golf website. It focuses on creating an engaging user experience with modern design principles.
 
-- **HTML5**: Structure
-- **CSS3**: Styling and layout
-- **JavaScript**: Interactivity and functionality
-- **GSAP**: Animations and transitions
 
 ### Acknowledgements
 
@@ -17,3 +12,19 @@ Explore the clone to see how these technologies bring the site to life!
 - **GSAP (GreenSock Animation Platform)**: [GSAP](https://greensock.com/gsap/)
 
 Happy coding and enjoy exploring the project!
+
+## Skills
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  </a>
+</p>
+
+---
